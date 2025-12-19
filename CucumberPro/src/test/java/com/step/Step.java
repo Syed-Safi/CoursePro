@@ -19,7 +19,7 @@ public class Step extends BaseClass {
 		maxmizeWindow();
 		setImplicitWait(70);
 		textType("username", "nochange");
-		textType("password", "nochange007");
+		textType("password", "QVF164");
 		baseClick("login");
 
 	}

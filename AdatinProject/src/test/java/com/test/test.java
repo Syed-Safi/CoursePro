@@ -22,7 +22,7 @@ public class test extends BaseClass {
 	public void hotelPage() {
 		setImplicitWait(20);
 		LoginPage log=new LoginPage();
-		log.loginPage("nochange", "nochange007");
+		log.loginPage("nochange", "QVF164");
 		SearchHotelPage hotelPage= new SearchHotelPage();
 		hotelPage.hotalPage(2, 3, 3, 4,"05/06/2025", "07/07/2025", 2, 2);
 		SelectHotel selectHotel=new SelectHotel();
