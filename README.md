@@ -20,8 +20,8 @@ It includes various BDD test scenarios implemented using Cucumber, and the tests
 Project Structure
 Name- AdatinProject
 - `src/test/java` → Contains reusable Selenium utility methods (base)
-- `src/test/java` → method defines (Pages)
-- `src/test/java` →  Test + Cucumber Runner (TestRun)
+- `src/test/java` → POM class (Pages)
+- `src/test/java` →  test (Test)
 - `pom.xml` → Maven dependencies and build config
 
 
