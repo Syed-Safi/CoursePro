@@ -11,6 +11,8 @@ It includes various BDD test scenarios implemented using Cucumber, and the tests
 
 - Java
 - Cucumber (BDD)
+- Page Object Model (POM) design pattern
+- Selenium PageFactory (`@FindBy`)
 - Selenium WebDriver
 - Maven
 - JUnit
