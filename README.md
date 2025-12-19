@@ -10,7 +10,7 @@ It includes various BDD test scenarios implemented using Cucumber, and the tests
 ## 🛠️ Tech Stack
 
 - Java
-- Cucumber (BDD)
+- Cucumber (BDD) (Gherkin)
 - Page Object Model (POM) design pattern
 - Selenium PageFactory (`@FindBy`)
 - Selenium WebDriver
