@@ -15,7 +15,9 @@ It includes various BDD test scenarios implemented using Cucumber, and the tests
 - Selenium PageFactory (`@FindBy`)
 - Selenium WebDriver
 - Maven
-- JUnit
+- TestNG
+- REST API
+- HTTP
 
 Project Structure
 Name- AdatinProject
@@ -25,9 +27,15 @@ Name- AdatinProject
 - `pom.xml` → Maven dependencies and build config
 
 
-Name- CucumberPro
+Name- Adactin Hotel Booking Automation Framework 
 - `src/test/java` → Contains reusable Selenium utility methods (BaseClass)
 - `src/test/java` → method defines (Step)
 - `src/test/java` →  Test + Cucumber Runner (TestRun)
 - `src/test/resources` → Feature files (End2Scenario)
+- `pom.xml` → Maven dependencies and build config
+
+ Nmme- REST API Testing Project 
+ - `src/test/java` → Contains reusable Selenium utility methods (BaseClass)
+- `src/test/java` → method defines (Step)
+- `src/test/java` →  Test
 - `pom.xml` → Maven dependencies and build config
